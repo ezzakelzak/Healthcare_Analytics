@@ -47,7 +47,7 @@ Partie 2 – Analyse : connexion de Synapse à Power BI et conception d’un tab
 
 
 🏗️ Pipeline
-<img src="images/architecture.png" alt="Architecture" width="800"/>
+<img src="images/Architecture.png" alt="Architecture" width="800"/>
 
 🎯 Objectifs
 
